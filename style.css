@@ -4,5 +4,17 @@ body{
 }
 
 .capa{
-    width: 50%;
+    width: 30%;
 }
+.beneficios{
+    text-align: left;
+    background-color: lightslategray;
+    ul{
+    display: inline-block;{
+        vertical-align: top;
+    }
+    
+}
+.foto-beneficios{
+    width: 40%;
+    }
